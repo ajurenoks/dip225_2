@@ -1,4 +1,4 @@
-Work with text file in python
+# Work with text file in python
 This are examples that are used in our classes. Video education video is available on YouTube channel https://www.youtube.com/@digitalasprasmes.
 
 This repository is an excellent resource for anyone looking to grasp the fundamentals of text type file Input/Output (I/O) processing in Python. With a carefully curated collection of five examples, it offers an insightful and hands-on approach to working with text files, enabling users to gain a solid understanding of file handling in Python.
