@@ -11,7 +11,9 @@ Examples Included:
 - Text Processing: Discover methods to manipulate text data read from files, such as string operations, data cleaning, and text analysis.
 
 **Example program**  read_csv_task.py
+
 This Python program aims to read data from a CSV file containing a Zoom meeting report and generate a comprehensive report file. The report will contain a list of unique users who participated in the Zoom meeting, sorted alphabetically. Let's break down the code:
+
 1. `attendance = []`: This initializes an empty list called `attendance`, which will be used to store the unique users who attended the Zoom meeting.
 2. `date = ''`: This variable will hold the date of the Zoom meeting. It is initialized as an empty string.
 3. `with open("zoom.csv", "r") as f`: This opens the CSV file named "zoom.csv" in read mode and assigns it to the file object `f`. The `with` statement ensures that the file is automatically closed after it's done being processed.
